@@ -1,0 +1,30 @@
+/.idea
+/.json
+/00-hello.py
+/000-ejercicio clase.py
+/01-variable.py
+/02-operadores.py
+/03- strings.py
+/04-lists.py
+/05-tuples.py
+/06-sets.py
+/07-diccionarios.py
+/08-condicionales.py
+/09- loop.py
+/10 funciones.py
+/11-clases.py
+/12-exepciones.py
+/13_dates.py
+/14_listcomprehension.py
+/15-lambdas.py
+/16-HigerOrderFunction.py
+/17-Files_handing.py
+/18-regularexpressions.py
+/csv_file.csv
+/Descuento_IVA.py
+/git_test
+/Holamundo.txt
+/json.json
+/json_file.json
+/venv
+/__pycache__
